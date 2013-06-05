@@ -1,0 +1,16 @@
+{
+  "name": "jsonapi-client-tests",
+  "version": "0.1.0",
+  "author": "Tom Dale <tom@tomdale.net>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tomdale/jsonapi-client-tests"
+  },
+  "bin": {
+    "promises-aplus-tests": "lib/cli.js"
+  },
+  "dependencies": {
+    "optimist": "~0.5"
+  }
+}
